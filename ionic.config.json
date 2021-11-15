@@ -1,0 +1,7 @@
+{
+  "name": "cs-plex-170",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
